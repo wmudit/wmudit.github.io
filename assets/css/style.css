@@ -708,7 +708,7 @@ color: #ff005a;
     position: relative;
     width: 450px;
     z-index: 1;
-    box-shadow: 50px 50px 3px 0px rgba(250, 0, 90, 0.19);
+    /*box-shadow: 50px 50px 3px 0px rgba(250, 0, 90, 0.19);*/
 }
 .socila-about ul li {
     display:  inline-block;
